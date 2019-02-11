@@ -1,6 +1,6 @@
 /*
  * Get In Touch
- * Send a text message 
+ * Send a text message from a website
  * Ubiquitous Computing - Digital Futures, OCAD University
  * Kate Hartman / Nick Puckett
  * 
@@ -9,7 +9,7 @@
  */
 
 
-var AIO_KEY = "0faf4d09a86047e8bc31e93a71d191d8";//get this from your account
+var AIO_KEY = ".......";//get this from your account
 var channelGroup = "contactNick";
 var messageIs = "messageIs";
 var whoIs = "thisPersonIs";
